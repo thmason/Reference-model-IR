@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+line_profiler
+easygui
+jupyter
+mplcursors
+
+./wheels/dst_toolkit-0.20.2-py3-none-any.whl
